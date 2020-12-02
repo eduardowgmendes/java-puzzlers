@@ -11,7 +11,7 @@ Os quebra-cabeças deste capítulo são simples. Eles envolvem apenas avaliaçã
 
 ### Quebra-Cabeças de Caráter ou seria `Character`?
 Aqui serão descritos os quebra-cabeças relacionados a `Strings`, `Characters` e todo conteúdo textual do Java.
-11. [Quem Ri Por último...](https://github.com/eduardowgmendes/java-puzzlers/blob/main/contents/chapters/10-the-last-laugh.md#a-%C3%BAltima-risada)  
+11. [Quem Ri Por último...](https://github.com/eduardowgmendes/java-puzzlers/blob/main/contents/chapters/10-the-last-laugh.md#quem-ri-por-%C3%BAltimo)  
 
 ## Informações e Recursos Extras 
 Este repositório é uma tradução *"capenga"* e pessoal do excelente livro Java Puzzlers - Traps, Pitfalls, and Corner Cases do Joshua Bloch e Neal Gafter, dois grandes nomes da plataforma Java SE que colaboraram imensamente em diversas APIs da plataforma principalmente a `Collections Framework`.
