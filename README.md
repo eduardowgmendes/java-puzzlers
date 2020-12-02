@@ -7,4 +7,4 @@ This repository is filled with brainteasers about the Java programming language 
 ### Expressive Puzzlers 
 The puzzles in this chapter are simple. They involve only expression evaluation. But remember, just because they’re simple doesn’t make them easy.
 
-1. [Oddity]()
+1. [Oddity](https://github.com/eduardowgmendes/java-puzzlers/blob/main/contents/chapters/00-oddity.md#buscando-inteiros-%C3%ADmpares)
