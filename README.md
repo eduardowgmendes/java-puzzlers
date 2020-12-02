@@ -4,7 +4,7 @@ Este repositório está cheio de quebra-cabeças sobre a linguagem de programaç
 
 ## Conteúdo
 
-### Expressive Puzzlers 
+### Quebra-Cabeças Expressivos 
 Os quebra-cabeças deste capítulo são simples. Eles envolvem apenas avaliação de expressões. Mas lembre-se, só porque eles são simples não significa que eles são fáceis.
 
 1. [Buscando Números Ímpares](https://github.com/eduardowgmendes/java-puzzlers/blob/main/contents/chapters/00-oddity.md#buscando-inteiros-%C3%ADmpares)

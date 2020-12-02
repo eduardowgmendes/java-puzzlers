@@ -1,4 +1,4 @@
-# Buscando Inteiros Ímpares 
+# Números Inteiros Ímpares 
 
 O seguinte método serve para determinar quando um número fornecido é um número ímpar. Será que este método vai funcionar?
 
