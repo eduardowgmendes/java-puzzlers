@@ -1,4 +1,4 @@
-# A Última Risada
+# Quem Ri Por Último...
 
 Considere o seguinte programa: 
 
