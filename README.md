@@ -1,10 +1,10 @@
 # Java Puzzlers 
 
-This repository is filled with brainteasers about the Java programming language and its core libraries. Anyone with a working knowledge of Java can understand these puzzles, but many of them are tough enough to challenge even the most experienced programmer.
+Este repositório está cheio de quebra-cabeças sobre a linguagem de programação Java e suas bibliotecas principais. Qualquer pessoa com conhecimento prático de Java pode entender esses quebra-cabeças, mas muitos deles são difíceis o suficiente para desafiar até mesmo o programador mais experiente.
 
-## Contents and Pitfalls of Java
+## Conteúdo
 
 ### Expressive Puzzlers 
-The puzzles in this chapter are simple. They involve only expression evaluation. But remember, just because they’re simple doesn’t make them easy.
+Os quebra-cabeças deste capítulo são simples. Eles envolvem apenas avaliação de expressões. Mas lembre-se, só porque eles são simples não significa que eles são fáceis.
 
-1. [Oddity](https://github.com/eduardowgmendes/java-puzzlers/blob/main/contents/chapters/00-oddity.md#buscando-inteiros-%C3%ADmpares)
+1. [Buscando Números Ímpares](https://github.com/eduardowgmendes/java-puzzlers/blob/main/contents/chapters/00-oddity.md#buscando-inteiros-%C3%ADmpares)
